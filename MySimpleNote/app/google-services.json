@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451978809037",
+    "project_id": "my-simple-note---quang-nhat",
+    "storage_bucket": "my-simple-note---quang-nhat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451978809037:android:5396c65d1f12e3ffb26384",
+        "android_client_info": {
+          "package_name": "com.example.mysimplenote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRCuKKvX4cnRLbEU2oS2gJbf6eYokGy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

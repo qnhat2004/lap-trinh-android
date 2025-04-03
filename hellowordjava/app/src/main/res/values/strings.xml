@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">helloword-java</string>
+    <string name="email" />
+    <string name="password" />
+</resources>
